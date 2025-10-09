@@ -1,4 +1,5 @@
 #👋 Hi, I'm <span style="color:#4F46E5;">Tarekul Islam
+
 **`Aspiring Data Analyst | Python | SQL | Excel`**
 
 ---
