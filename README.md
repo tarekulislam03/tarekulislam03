@@ -1,4 +1,4 @@
-<h1 Hi, I'm Tarek ul Islam 👋/<h1>
+<h1>Hi, I'm Tarek ul Islam 👋<h1/>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/tarekulislam-ti/">
 <img align="right" alt="Tarek's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
 </a>
