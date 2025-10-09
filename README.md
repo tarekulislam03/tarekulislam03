@@ -1,78 +1,86 @@
-# 🏄🏻 Tarekul Islam
+# 🏄 Tarekul Islam
+**`Aspiring Data Analyst`** 
 
-**`Aspiring Data Analyst | Python | SQL | Excel`**
+## About Me
+- Passionate Computer Science student and Aspiring Data Analyst.
+- Loves transforming raw data into meaningful insights and business intelligence.
+- Skilled in Python, SQL, and Excel for data analysis, pattern discovery, and trend visualization.
 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter,instagram,)](https://skillicons.dev)
 
-### 🧠 About Me
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,figma,git,github,&theme=light)](https://skillicons.dev)
 
-I'm **Tarekul Islam**, a passionate **Computer Science student** and **Aspiring Data Analyst** who loves transforming data into meaningful insights.  
-I enjoy exploring data patterns, visualizing trends, and uncovering actionable business intelligence through **Python, SQL, and Excel**.  
-
-🌱 Currently, I’m diving deep into **AI & Machine Learning** to understand how intelligent systems can automate decision-making and enhance real-world processes.  
-🎯 I’m **open to freelance work** and actively **seeking opportunities** to contribute to impactful data projects.
-
----
-
-### ⚙️ Skills & Technologies
-
-#### 💡 Core Skills
-🐍 **Python** | 🗄️ **SQL** | 📊 **Excel**
-
-#### 🔍 Currently Learning
-🧠 **Artificial Intelligence (AI)** | 🤖 **Machine Learning (ML)** | 🔬 **Deep Learning** | 🕵️‍♂️ **Data Science Tools**
 
 ---
 
-### 📈 Featured Projects
+## Projects - showcase
 
-#### 🏪 **Supermarket Sales Analysis (Pandas Project)**
-**Overview:**  
-This project analyzes supermarket sales data from three branches located in **Alexandria**, **Cairo**, and **Giza**.  
-
-Using **Python (Pandas, Matplotlib, Seaborn)**, I explored:
-- Customer behavior & buying patterns  
-- Branch performance  
-- Product line trends  
-- Payment preferences  
-
-🎯 **Goal:** To provide actionable insights that improve **revenue**, **customer satisfaction**, and **operational efficiency**.  
-
-🔗 *[View Project Repository](#)*
-
----
-
-#### 🎬 **Movie Industry Insights Report**
-**Overview:**  
-An analytical exploration of the global movie industry—discovering patterns between **budget**, **genre**, and **revenue performance**.  
-
-📊 Techniques: Data cleaning, visualization, and insight extraction using **Pandas**, **Matplotlib**, and **Seaborn**.  
-
-🔗 *[View Project Repository](#)*
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-<a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 🌟 Fun Fact
-> “Data tells stories — and I love being the storyteller behind the numbers.”
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
+             alt="DeepSeek AI Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DeepSeek AI Chatbot</b><br/>
+      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <br/>
+      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
+             alt="CI/CD Pipeline Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Cloud CI/CD Pipeline</b><br/>
+      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <br/>
+      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
+             alt="VPC Networking Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Secure AWS VPC</b><br/>
+      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <br/>
+      <sub>Tags: Networking, AWS, Security</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Tarekuls' GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekulislam03&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+<a href="https://www.linkedin.com/in/tarekul-islam-834a052b3" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/tarekulislaam?t=KKgsl4Jrk0mkyBtlNt4k_w&s=09" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
