@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarekul Islam</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">An aspiring Data Analyst with a passion for uncovering stories hidden in data using Python.</h3>
 
 - 🔭 I’m currently working on **some small and basic python projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱  I’m currently diving deeper into data visualization with Seaborn and learning advanced **SQL** for data warehousing.
 
 - 📫 How to reach me **tarekul03.muslim@gmail.com**
 
