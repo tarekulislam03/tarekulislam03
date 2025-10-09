@@ -1,17 +1,54 @@
-<h1 align="center">Hi 👋, I'm Tarekul Islam</h1>
-<h3 align="center">An aspiring Data Analyst with a passion for uncovering stories hidden in data using Python.</h3>
+Hi, I'm Tarek ul Islam 👋
+<a href="https://www.google.com/search?q=https://linkedin.com/in/tarekulislam-ti/">
+<img align="right" alt="Tarek's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:tarekuli03.muslim@gmail.com">
+<img align="right" alt="Tarek's Email" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently exploring a supermarket sales dataset to identify customer purchasing patterns. You can check it out <a href="[https://instagram.com/_tarik__03_](https://github.com/tarekulislam03/supermarket-data-analysis-and-business-insights)" target="blank"<here/a>
+I'm an aspiring Data Analyst and a B.Tech CSE student at UEM Kolkata, with a passion for uncovering the stories hidden within data. I enjoy diving into datasets, cleaning them up, and using Python to extract actionable insights and create clear visualizations.
 
-- 🌱  I’m currently diving deeper into data visualization with Seaborn and learning advanced **SQL** for data warehousing.
+🚀 What I'm Up To
+🔭   I’m currently working on an end-to-end Supermarket Sales Analysis to identify purchasing trends and provide business recommendations.
 
-- 📫 How to reach me **tarekul03.muslim@gmail.com**
+🌱   I’m sharpening my skills in advanced SQL queries and creating more compelling data visualizations with Seaborn.
 
-<h3 align="left">Connect with me:</h3>
+👯   I’m looking to collaborate on beginner-friendly open-source data analysis or machine learning projects.
+
+📫   How to reach me: tarekuli03.muslim@gmail.com or connect with me on LinkedIn.
+
+💻 Languages and Tools
+Here are the tools and technologies I'm comfortable working with:
+
 <p align="left">
-<a href="https://twitter.com/tarekulislaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarekulislaam" height="30" width="40" /></a>
-<a href="https://instagram.com/_tarik__03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tarik__03_" height="30" width="40" /></a>
+<a href="https://www.python.org" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.jupyter.org/" target="_blank">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📊 My GitHub Stats
+<p align="center">
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtarekulislam03%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Tarek ul Islam's GitHub Stats" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtarekulislam03%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
