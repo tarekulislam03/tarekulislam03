@@ -63,17 +63,6 @@
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Tarekuls' GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekulislam03&show_icons=true&theme=gruvbox)
-
----
-
 ## Links
 <a href="https://www.linkedin.com/in/tarekul-islam-834a052b3" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
