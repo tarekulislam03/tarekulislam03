@@ -2,7 +2,7 @@
 
 **`Aspiring Data Analyst | Python | SQL | Excel`**
 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin,twitter)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin,x)](https://skillicons.dev)
 
 ### 🧠 About Me
 
