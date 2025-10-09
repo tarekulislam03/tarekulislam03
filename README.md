@@ -13,8 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,figma,git,github,&theme=light)](https://skillicons.dev)
 
 
----
-
 ## Links
 <a href="https://www.linkedin.com/in/tarekul-islam-834a052b3" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
