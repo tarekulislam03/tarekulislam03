@@ -1,8 +1,7 @@
-# Tarekul Islam
+#👋 Tarekul Islam
 
 **`Aspiring Data Analyst | Python | SQL | Excel`**
 
----
 
 ### 🧠 About Me
 
