@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1>👋 Hi, I'm <span style="color:#4F46E5;">Tarekul Islam</span></h1>
-<h3>🚀 Aspiring Data Analyst | Python | SQL | Excel | AI & ML Enthusiast</h3>
+`<h3>🚀 Aspiring Data Analyst | Python | SQL | Excel | AI & ML Enthusiast</h3>`
 
 ---
 
