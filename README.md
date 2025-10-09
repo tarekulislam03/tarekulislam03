@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarekul Islam</h1>
 <h3 align="center">An aspiring Data Analyst with a passion for uncovering stories hidden in data using Python.</h3>
 
-- 🔭 I’m currently working on **some small and basic python projects**
+- 🔭 I’m currently exploring a supermarket sales dataset to identify customer purchasing patterns. You can check it out <a href="[https://instagram.com/_tarik__03_](https://github.com/tarekulislam03/supermarket-data-analysis-and-business-insights)" target="blank"<here/a>
 
 - 🌱  I’m currently diving deeper into data visualization with Seaborn and learning advanced **SQL** for data warehousing.
 
