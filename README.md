@@ -9,7 +9,7 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,figma,git,github,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,sql&theme=light)](https://skillicons.dev)
 
 
 ## Links
