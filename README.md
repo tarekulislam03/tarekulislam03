@@ -1,11 +1,10 @@
 # 🏄 Tarekul Islam
-**`Aspiring Data Analyst`** 
+**`Backend | Cloud & DevOps`** 
 
 ## About Me
-- Passionate Computer Science student and Aspiring Data Analyst.
-- Loves transforming raw data into meaningful insights and business intelligence.
-- Skilled in Python, SQL, and Excel for data analysis, pattern discovery, and trend visualization.
-
+- Backend-focused developer working with cloud infrastructure and DevOps practices
+- Built and actively managing a live SaaS application with early-stage users
+- B.Tech Computer Science student at UEM Kolkata, focused on scalable systems and real-world deployment
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
