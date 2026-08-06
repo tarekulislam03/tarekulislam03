@@ -1,10 +1,11 @@
 # 🏄 Tarekul Islam
-**`Backend | Cloud & DevOps`** 
+**`Full Stack | AL & ML | DevOps | System Engineering`** 
 
 ## About Me
-- Backend-focused developer working with cloud infrastructure and DevOps practices
-- Built and actively managing a live SaaS application with early-stage users
-- B.Tech Computer Science student at UEM Kolkata, focused on scalable systems and real-world deployment
+- Strong foundation in backend development, REST APIs, databases, authentication, and system architecture
+- Built and actively managing a production cloud-hosted enterprise application serving real users
+- Hands-on experience with cloud infrastructure, Linux servers, Docker, Nginx, Git, and deployment automation
+- Built AI-powered applications by integrating LLMs, OCR pipelines, and intelligent automation into production software
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
