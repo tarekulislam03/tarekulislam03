@@ -1,5 +1,5 @@
 # 🏄 Tarekul Islam
-**`Full Stack | AL & ML | DevOps | System Engineering`** 
+**`Full Stack | AI Applications | DevOps | System Engineering`** 
 
 ## About Me
 - Strong foundation in backend development, REST APIs, databases, authentication, and system architecture
