@@ -3,10 +3,6 @@
 [![AI Applications](https://img.shields.io/badge/AI%20Applications-purple?style=flat-square)](#)
 [![DevOps](https://img.shields.io/badge/DevOps-orange?style=flat-square)](#)
 [![System Engineering](https://img.shields.io/badge/System%20Engineering-green?style=flat-square)](#)
-## Education
-
-**B.Tech in Computer Science & Engineering** <br>
-University of Engineering & Management, Kolkata · 2025–2029
 
 ## Experience
 
