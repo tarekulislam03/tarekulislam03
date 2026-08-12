@@ -1,11 +1,29 @@
-# 🏄 Tarekul Islam
+# Tarekul Islam
 **`Full Stack | AI Applications | DevOps | System Engineering`** 
 
-## About Me
-- Strong foundation in backend development, REST APIs, databases, authentication, and system architecture
-- Built and actively managing a production cloud-hosted enterprise application serving real users
-- Hands-on experience with cloud infrastructure, Linux servers, Docker, Nginx, Git, and deployment automation
-- Built AI-powered applications by integrating LLMs, OCR pipelines, and intelligent automation into production software
+## Education
+
+**B.Tech in Computer Science & Engineering** <br>
+University of Engineering & Management, Kolkata · 2025–2029
+
+## Experience
+
+### Medix — Founder & Full Stack Developer
+
+Built & actively managing a cloud-based pharmacy ERP with **React, Node.js, Express, MongoDB, TypeScript, and AWS**.
+
+* Built an **AI-powered OCR + LLM pipeline** to extract and structure pharmacy invoice data with ~90% field accuracy.
+* Integrated **LLM-based document processing and backend validation** to automate inventory data entry.
+* Built **MongoDB analytics** to detect near-expiry medicines across **10,000+ records**, saving customers ~₹1,000/month.
+* Deployed production infrastructure using **AWS EC2, Linux, Docker, Nginx, and Git**.
+
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-tarekulislam.tech%40gmail.com-informational?style=flat-square)](mailto:tarekulislam.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarekulislam-blue?style=flat-square)](https://www.linkedin.com/in/tarekulislam/)
+
+
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
