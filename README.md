@@ -16,13 +16,6 @@ Built & actively managing a cloud-based pharmacy ERP with **React, Node.js, Expr
 * Deployed production infrastructure using **AWS EC2, Linux, Docker, Nginx, and Git**.
 
 
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-tarekulislam.tech%40gmail.com-informational?style=flat-square)](mailto:tarekulislam.tech@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarekulislam-blue?style=flat-square)](https://www.linkedin.com/in/tarekulislam/)
-
-
-
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
@@ -30,3 +23,9 @@ Built & actively managing a cloud-based pharmacy ERP with **React, Node.js, Expr
 
 ## DSA Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tarekuldsa?theme=dark&font=inter)
+
+
+## Connect
+[![Email](https://img.shields.io/badge/Email-tarekulislam.tech%40gmail.com-informational?style=flat-square)](mailto:tarekulislam.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarekulislam-blue?style=flat-square)](https://www.linkedin.com/in/tarekulislam/)
+
