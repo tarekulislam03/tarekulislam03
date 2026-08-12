@@ -12,8 +12,5 @@
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,postgres,sqlite,html,css,cs,net,git&theme=light)](https://skillicons.dev)
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
-
 ## DSA Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/tarekuldsa?theme=dark&font=inter)
