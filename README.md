@@ -7,13 +7,8 @@
 ## Experience
 
 ### Medix — Founder & Full Stack Developer
-
 Built & actively managing a cloud-based pharmacy ERP with **React, Node.js, Express, MongoDB, TypeScript, and AWS**.
 
-* Built an **AI-powered OCR + LLM pipeline** to extract and structure pharmacy invoice data with ~90% field accuracy.
-* Integrated **LLM-based document processing and backend validation** to automate inventory data entry.
-* Built **MongoDB analytics** to detect near-expiry medicines across **10,000+ records**, saving customers ~₹1,000/month.
-* Deployed production infrastructure using **AWS EC2, Linux, Docker, Nginx, and Git**.
 
 
 ## Skill stack
