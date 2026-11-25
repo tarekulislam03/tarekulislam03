@@ -2,9 +2,10 @@
 Hi, I'm Tarekul 👋 <br><br>  
 Experience <br>
 - I Built & actively maintain a cloud-based pharmacy store management application, currently have 3 users. The app manages their inventory, billing, purchase records, sales & save losses.<br>
+- I built and maintains a cloud-based, multi counter supermarket billing and accounting software.<br>
 - Building an operating system from scratch. <a href="https://www.linkedin.com/in/tarekul-islaam/">Documentary</a>
 <a href="https://www.github.com/tarekulislam03/Imperfect_OS">Source-Code</a><br>
-- Did several web & app dev freelance projects.
+- I built and actively maintain a cloud-based CRM application for a motor training school.
  <br><br>
 Visit my leetcode profile. <a href="https://leetcode.com/u/tarekuldsa">Here</a><br><br>
 </samp>
